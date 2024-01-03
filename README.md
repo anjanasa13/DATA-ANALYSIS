@@ -1,1 +1,4 @@
-HELLO
+PROBLEM :
+Analyzing a user's screen time is instrumental for smartphone companies in providing a comprehensive overview of the user's activities on their device. This analysis aids users in gaining insights into whether their time was spent productively, creatively, or if there was time wastage. By scrutinizing screen time, it becomes possible to uncover relationships between smartphone usage and factors such as notifications and the specific apps employed by the user. This exploration can shed light on patterns, preferences, and dependencies, contributing to a more nuanced understanding of how individuals interact with their smartphones and the impact on their overall engagement and efficiency.
+
+Analyze the screen time of the user to find relationships between the usage of the smartphone and factors like notifications and apps used by the user.
